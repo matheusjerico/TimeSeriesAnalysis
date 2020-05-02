@@ -1,4 +1,4 @@
-<strong><b><font size="5">Análise Estatística e Modelagem Preditiva de Séries Temporais - Em Python</font></b></strong>
+<strong><b><font size="5">Análise Estatística e Modelagem Preditiva de Séries Temporais</font></b></strong>
 
 **Exercício 1**:
 
